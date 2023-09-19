@@ -3,12 +3,15 @@
 
 <a href="https://lamong.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-E34F26?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <br>
-sewc 19 IT비즈니스전공
+💜sewc 19 IT비즈니스전공
 <br>
-kku 20 ICT융합공학부 소프트웨어전공
+💜kku 20 ICT융합공학부 소프트웨어전공
 <br><br>
-iOS 개발자로 멋진 라벤더 대농장주가 될때까지🪻
-<br>
+🤍iOS 개발자로 멋진 라벤더 대농장주가 될때까지
+<br><br>
+
+#### Bootcamp
+☁️9oormthon Training IN Goorm 자바스프링 & 리액트 풀스택 개발자 성장 과정 1회차 ~
 
 <br><br>
 
