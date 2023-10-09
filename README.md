@@ -54,9 +54,9 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hchaehyun&theme=swift)](https://github.com/hchaehyun/github-readme-stats)
--->
+
 
 
 
