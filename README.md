@@ -11,9 +11,9 @@
 <br><br>
 
 #### Bootcamp
-☁️9oormthon Training IN Goorm 자바스프링 & 리액트 풀스택 개발자 성장 과정 1회차 (진행중)
+☁️9oormthon Training IN Goorm 자바스프링 & 리액트 풀스택 개발자 성장 과정 1회차 수료
 <br>
-🐻yagom Swift 코드 스타터 캠프 11기
+🐻yagom Swift 코드 스타터 캠프 11기 수료
 
 <br><br>
 
