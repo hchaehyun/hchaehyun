@@ -26,6 +26,7 @@
 ![swiftUI](https://img.shields.io/badge/swiftUI-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white)
 
 
 #### Once i've used & Studying
@@ -41,7 +42,6 @@
 ![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 <br>
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 <br>
 ![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
