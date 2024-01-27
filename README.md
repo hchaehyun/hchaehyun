@@ -3,9 +3,9 @@
 
 <a href="https://lamong.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-E34F26?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <br>
-💜sewc 19 IT비즈니스전공
+💜sewc 19 IT비즈니스전공 졸업
 <br>
-💜kku 20 ICT융합공학부 소프트웨어전공
+💜kku 20 ICT융합공학부 소프트웨어전공 재학중
 <br><br>
 🤍앱 개발자로 멋진 라벤더 대농장주가 될때까지
 <br><br>
