@@ -6,6 +6,8 @@
 💜sewc 19 IT비즈니스전공 졸업
 <br>
 💜kku 20 ICT융합공학부 소프트웨어전공 재학중
+<br>
+💜2024 상반기 ICT 인턴십 진행중
 <br><br>
 🤍앱 개발자로 멋진 라벤더 대농장주가 될때까지
 <br><br>
@@ -28,6 +30,12 @@
 ![swiftUI](https://img.shields.io/badge/swiftUI-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white)
 
+#### ICT intership studying
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 #### Once i've used & Studying
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
@@ -43,17 +51,14 @@
 <br>
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
-<br>
-![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
-
 
 #### Tools
 ![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![xcode](https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![intellij](https://img.shields.io/badge/intellij-181717.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
