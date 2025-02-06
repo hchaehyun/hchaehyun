@@ -55,15 +55,14 @@
 
 #### Tools
 ![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-<!--![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)-->
 ![xcode](https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white)
-<!--![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)-->
 ![intellij](https://img.shields.io/badge/intellij-181717.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-
+<!--![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)-->
+<!--![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hchaehyun&theme=swift)](https://github.com/hchaehyun/github-readme-stats) -->
 
