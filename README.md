@@ -3,9 +3,9 @@
 
 <a href="https://lamong.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-E34F26?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <br>
-💜sewc 19 IT비즈니스전공 졸업
+💜SEWC 숭의여자대학교 19학번 IT비즈니스전공 졸업
 <br>
-💜kku 20 ICT융합공학부 소프트웨어전공 졸업
+💜KKU 건국대학교 글로컬캠퍼스 20학번 ICT융합공학부 소프트웨어전공 졸업
 <br>
 💜2024.03.01~ 2024.06.30 ZTACOM 인턴
 <br>
