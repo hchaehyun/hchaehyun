@@ -11,7 +11,6 @@
 <br>
 💜2024.07.01~ eMedi Healthcare Corp. 연구원 재직
 
-🤍개발자로 멋진 라벤더 대농장주가 될때까지
 <br><br>
 
 ### 📘Extracurricular Activities
