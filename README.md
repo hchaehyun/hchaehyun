@@ -10,7 +10,6 @@
 💜2024.03.01~ 2024.06.30 ZTACOM 인턴
 <br>
 💜2024.07.01~ eMedi Healthcare Corp. 연구원 재직
-
 <br><br>
 
 ### 📘Extracurricular Activities
