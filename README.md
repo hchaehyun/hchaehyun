@@ -3,13 +3,13 @@
 
 <a href="https://lamong.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-E34F26?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <br>
-💜SEWC 숭의여자대학교 19학번 IT비즈니스전공 졸업
+💜SEWC 숭의여자대학교 19학번 IT비즈니스전공 졸업 (2019.03 - 2022.02)
 <br>
-💜KKU 건국대학교 글로컬캠퍼스 20학번 ICT융합공학부 소프트웨어전공 졸업
+💜KKU 건국대학교 글로컬캠퍼스 20학번 ICT융합공학부 소프트웨어전공 졸업 (2022.03 - 2024.08)
 <br>
-💜2024.03.01~ 2024.06.30 ZTACOM 인턴
+💜ZTACOM 인턴 (2024.03.01 - 2024.06.30)
 <br>
-💜2024.07.01~ eMedi Healthcare Corp. 연구원 재직
+💜eMedi Healthcare Corp. 연구원 재직 (2024.07.01~ )
 <br><br>
 
 ### 📘Extracurricular Activities
