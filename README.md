@@ -9,10 +9,12 @@
 <br>
 💜ZTACOM 인턴 (2024.03.01 - 2024.06.30)
 <br>
-💜eMedi Healthcare Corp. 연구원 재직 (2024.07.01~ )
+💜eMedi Healthcare Corp. 연구원 재직 (2024.07.01 - 2025.12.01)
+<br>
+💜ZTACOM 연구원 재직 (eMedi Healthcare Corp. 자회사 법인 이동) (2025.12.01~ )
 <br><br>
 
-### 📘Extracurricular Activities
+### 📘외부활동
 ☁️9oormthon Training IN Goorm 자바스프링 & 리액트 풀스택 개발자 성장 과정 1회차 수료
 <br>
 🐻yagom Swift 코드 스타터 캠프 11기 수료
