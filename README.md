@@ -1,7 +1,7 @@
 
-### 🪻🪻🪻🪻🪻🪻🪻🪻🪻🪻
+### 🪻🐕🪻🐕🪻🐕🪻🐕🪻🐕🪻🐕🪻🐕🪻🐕🪻🐕🪻🐕
 
-<a href="https://lamong.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-E34F26?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<!-- <a href="https://lamong.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-E34F26?style=flat-square&logo=Tistory&logoColor=white"/></a> -->
 <br>
 💜SEWC 숭의여자대학교 19학번 IT비즈니스전공 졸업 (2019.03 - 2022.02)
 <br>
@@ -13,6 +13,17 @@
 <br>
 💜ZTACOM 연구원 재직 (eMedi Healthcare Corp. 자회사 법인 이동) (2025.12.01~ )
 <br><br>
+💜 Soongeui Women’s College (SEWC) Associate Degree in IT Business (Mar 2019 – Feb 2022)
+<br>
+💜 Konkuk University, Glocal Campus (KKU) B.S. in Software Engineering (Mar 2022 – Aug 2024)
+<br>
+💜 ZTACOM Software Engineer (Research Institute) — Intern (Mar 1, 2024 – Jun 30, 2024 / 4 months)
+<br>
+💜 eMedi Healthcare Corp. Software Engineer (Research Institute) (Jul 1, 2024 – Dec 1, 2025 / 1 year 5 months)
+<br>
+💜 ZTACOM Software Engineer (Research Institute) (Transferred to a subsidiary of eMedi Healthcare Corp.) (Dec 1, 2025 – Present)
+<br><br>
+
 
 ### 📘외부활동
 ☁️9oormthon Training IN Goorm 자바스프링 & 리액트 풀스택 개발자 성장 과정 1회차 수료
