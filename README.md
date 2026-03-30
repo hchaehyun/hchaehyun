@@ -3,29 +3,29 @@
 
 <!-- <a href="https://lamong.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-E34F26?style=flat-square&logo=Tistory&logoColor=white"/></a> -->
 <br>
-💜SEWC 숭의여자대학교 19학번 IT비즈니스전공 졸업 (2019.03 - 2022.02)
+• SEWC 숭의여자대학교 19학번 IT비즈니스과 졸업 (2019.03 - 2022.02)
 <br>
-💜KKU 건국대학교 글로컬캠퍼스 20학번 ICT융합공학부 소프트웨어전공 졸업 (2022.03 - 2024.08)
+• KKU 건국대학교 글로컬캠퍼스 20학번 ICT융합공학부 소프트웨어전공 졸업 (2022.03 - 2024.08)
 <br>
-💜ZTACOM 인턴 (2024.03.01 - 2024.06.30 / 4개월)
+• Soongeui Women’s College (SEWC) Associate Degree in IT Business (Mar 2019 – Feb 2022)
 <br>
-💜eMedi Healthcare Corp. 연구원 재직 (2024.07.01 - 2025.12.01 / 1년 5개월) 
-<br>
-💜ZTACOM 연구원 재직 (eMedi Healthcare Corp. 자회사 법인 이동) (2025.12.01~ )
+• Konkuk University, Glocal Campus (KKU) B.S. in Software Engineering (Mar 2022 – Aug 2024)
 <br><br>
-💜 Soongeui Women’s College (SEWC) Associate Degree in IT Business (Mar 2019 – Feb 2022)
+
+• ZTACOM 인턴 (2024.03.01 - 2024.06.30 / 4개월)
 <br>
-💜 Konkuk University, Glocal Campus (KKU) B.S. in Software Engineering (Mar 2022 – Aug 2024)
+• eMedi Healthcare Corp. 연구원 재직 (2024.07.01 - 2025.12.01 / 1년 5개월) 
 <br>
-💜 ZTACOM Software Engineer (Research Institute) — Intern (Mar 1, 2024 – Jun 30, 2024 / 4 months)
+• ZTACOM 연구원 재직 (eMedi Healthcare Corp. 자회사 법인 이동) (2025.12.01 - 현재)
 <br>
-💜 eMedi Healthcare Corp. Software Engineer (Research Institute) (Jul 1, 2024 – Dec 1, 2025 / 1 year 5 months)
+• ZTACOM Software Engineer (Research Institute) — Intern (Mar 1, 2024 – Jun 30, 2024 / 4 months)
 <br>
-💜 ZTACOM Software Engineer (Research Institute) (Transferred to a subsidiary of eMedi Healthcare Corp.) (Dec 1, 2025 – Present)
+• eMedi Healthcare Corp. Software Engineer (Research Institute) (Jul 1, 2024 – Dec 1, 2025 / 1 year 5 months)
+<br>
+• ZTACOM Software Engineer (Research Institute) (Transferred to a subsidiary of eMedi Healthcare Corp.) (Dec 1, 2025 – Present)
 <br><br>
 
 
-### 📘외부활동
 ☁️9oormthon Training IN Goorm 자바스프링 & 리액트 풀스택 개발자 성장 과정 1회차 수료
 <br>
 🐻yagom Swift 코드 스타터 캠프 11기 수료
@@ -33,7 +33,7 @@
 📋2024 상반기 ICT 인턴십 참여
 <br><br>
 
-### 🔧 Stacks
+<!-- ### 🔧 Stacks -->
 
 #### Main
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -49,21 +49,21 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 #### Once i've used & Studying
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
+<!-- ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white) -->
+<!-- ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white) -->
 ![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![swiftUI](https://img.shields.io/badge/swiftUI-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
 
 
 #### Tools
