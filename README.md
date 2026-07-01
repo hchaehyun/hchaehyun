@@ -37,7 +37,7 @@
 
 #### Main
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+<!--[CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)-->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -50,6 +50,7 @@
 ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 
 #### Once i've used & Studying
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
@@ -57,7 +58,6 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 <!-- ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white) -->
 <!-- ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white) -->
-![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
