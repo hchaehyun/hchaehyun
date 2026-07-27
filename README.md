@@ -7,16 +7,16 @@
 <br>
 • KKU 건국대학교 글로컬캠퍼스 20학번 ICT융합공학부 소프트웨어전공 졸업 (2022.03 - 2024.08)
 <br>
-• Soongeui Women’s College (SEWC) Associate Degree in IT Business (Mar 2019 – Feb 2022)
-<br>
-• Konkuk University, Glocal Campus (KKU) B.S. in Software Engineering (Mar 2022 – Aug 2024)
-<br><br>
-
 • ZTACOM 인턴 (2024.03.01 - 2024.06.30 / 4개월)
 <br>
 • eMedi Healthcare Corp. 연구원 재직 (2024.07.01 - 2025.12.01 / 1년 5개월) 
 <br>
 • ZTACOM 연구원 재직 (eMedi Healthcare Corp. 자회사 법인 이동) (2025.12.01 - 2026.07.29 / 7개월)
+<br><br>
+
+• Soongeui Women’s College (SEWC) Associate Degree in IT Business (Mar 2019 – Feb 2022)
+<br>
+• Konkuk University, Glocal Campus (KKU) B.S. in Software Engineering (Mar 2022 – Aug 2024)
 <br>
 • ZTACOM Software Engineer (Research Institute) — Intern (Mar 1, 2024 – Jun 30, 2024 / 4 months)
 <br>
