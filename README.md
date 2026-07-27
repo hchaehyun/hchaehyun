@@ -16,13 +16,13 @@
 <br>
 • eMedi Healthcare Corp. 연구원 재직 (2024.07.01 - 2025.12.01 / 1년 5개월) 
 <br>
-• ZTACOM 연구원 재직 (eMedi Healthcare Corp. 자회사 법인 이동) (2025.12.01 - 현재)
+• ZTACOM 연구원 재직 (eMedi Healthcare Corp. 자회사 법인 이동) (2025.12.01 - 2026.07.29 / 7개월)
 <br>
 • ZTACOM Software Engineer (Research Institute) — Intern (Mar 1, 2024 – Jun 30, 2024 / 4 months)
 <br>
 • eMedi Healthcare Corp. Software Engineer (Research Institute) (Jul 1, 2024 – Dec 1, 2025 / 1 year 5 months)
 <br>
-• ZTACOM Software Engineer (Research Institute) (Transferred to a subsidiary of eMedi Healthcare Corp.) (Dec 1, 2025 – Present)
+• ZTACOM Software Engineer (Research Institute) (Transferred to a subsidiary of eMedi Healthcare Corp.) (Dec 1, 2025 – Jul 29, 2026 / 7 months)
 <br><br>
 
 
