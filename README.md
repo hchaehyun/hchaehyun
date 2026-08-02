@@ -12,7 +12,10 @@
 • eMedi Healthcare Corp. 연구원 재직 (2024.07.01 - 2025.12.01 / 1년 5개월) 
 <br>
 • ZTACOM 연구원 재직 (eMedi Healthcare Corp. 자회사 법인 이동) (2025.12.01 - 2026.07.29 / 7개월)
+<br>
+• 디지털헤럴드 재직 (2026.08.03 - 현재)
 <br><br>
+
 
 • Soongeui Women’s College (SEWC) Associate Degree in IT Business (Mar 2019 – Feb 2022)
 <br>
@@ -23,6 +26,8 @@
 • eMedi Healthcare Corp. Software Engineer (Research Institute) (Jul 1, 2024 – Dec 1, 2025 / 1 year 5 months)
 <br>
 • ZTACOM Software Engineer (Research Institute) (Transferred to a subsidiary of eMedi Healthcare Corp.) (Dec 1, 2025 – Jul 29, 2026 / 7 months)
+<br>
+• Digital Herald. INC. Software Engineer (Aug 3, 2026 – Present)
 <br><br>
 
 
